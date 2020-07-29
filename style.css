@@ -1,0 +1,54 @@
+body{
+  margin: auto;
+}
+
+.banner{
+  background-image: url(https://tse3.mm.bing.net/th?id=OIP.IumWkT1hfQ3DbUZJ47fYiQHaFj&pid=Api);
+  padding: 10% 20%;
+  align-items: center;
+  justify-content: center;
+  height: 220px;
+  background-size: 100%;
+  text-align: left;
+  position: relative;
+}
+.content{
+  text-align: left;
+  padding: 30px;
+  margin: 50px 5%;
+  padding: 0 20%
+}
+
+.header {
+  margin: 50px 35px;
+}
+
+h1 {
+  font-family: Montserrat, sans serif;
+  font-weight: bold;
+  color: white;
+  font-size: 38px;
+}
+.header h2{
+  font-family: 'Lora', serif;
+  color: grey;
+  font-size: 30px
+}
+
+.content h2{
+  color: #bababa;
+  font-family: Montserrat;
+  font-weight: normal;
+}
+.content p{
+  font-family: 'Lora', serif;
+  font-size: 16px;
+}
+
+a{
+  font-family: Lora;
+  background-color: #a9f09e;
+  text-decoration: none;
+  font-size: 25px;
+  color: #675b5b
+}
